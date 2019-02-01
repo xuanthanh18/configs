@@ -143,3 +143,4 @@ vnoremap < <gv
 vnoremap > >gv
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 set backspace=indent,eol,start
+highlight Comment ctermfg=006987
